@@ -1,6 +1,6 @@
 # BOTWHATS
 
-Estes arquivos são referentes ao Chatbot direcionado a um serviço de streaming, apesar do uso pessoal pela grande quantia de codigos sensiveis foi decidido manter somente os arquivos relevante a funções especificas, lembrando que todas são 100% funcionais.
+Estes arquivos são referentes ao Chatbot direcionado a um serviço de streaming, pela grande quantia de codigos sensiveis foi decidido manter somente os arquivos relevante a funções especificas, lembrando que todas são 100% funcionais.
 
 Biblioteca utilizada (WHATSAPP-WEB.JS) 
 Banco de dados utilizados (Postegres)
